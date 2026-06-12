@@ -4,7 +4,7 @@ A Cool USB Hub that features 2 Type-C and 4 Type-A ports! (Original, I know) The
 ## BOM 
 [View the full dataset](./BOM.csv)
 ## Photos
-![Alt text](Assets/PCB_Render.png)
+![PCB Render](Assets/PCB_Render.png)
 More coming soon
 ## Tools Used
 Cad - Autodesk Inventor (Files can also be edited via Fusion)

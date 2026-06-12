@@ -1,1 +1,9 @@
-Item,Link,Price,Quantity,Total Price
+Item,Source,Price,Quantity,Total Price
+SL2.1s,LCSC,$0.25,2,$0.50
+Type-C Connecter,LCSC,$0.07,3,$0.21
+Type-A Connecter,LCSC,$0.06,4,$0.24
+5.1k Resistor,LCSC,$0.01,6,$0.06
+1uF Ceramic Capacitor,LCSC,$0.01,11,$0.11
+100uF Ceramic Capacitor,LCSC,$0.01,4,$0.04
+Leds,LCSC,$0.05,4,$0.20
+1k Potentiometer,LCSC,$0.13,3,$0.39

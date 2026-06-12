@@ -11,4 +11,4 @@ Cad - Autodesk Inventor (Files can also be edited via Fusion)
 
 PCB Design - EasyEDA
 ## Assembly
-Once all soldering is complete the board can be inserted into the bottom of the case. Plug in the hub and set up the LEDs with the potentiometers. Each potentiometer controls a RGB value. The top is then placed on to and the pins are soldered in place.
+Reflow solder all componets to the PCB. Once all soldering is complete the board can be inserted into the bottom of the case. Plug in the hub and set up the LEDs with the potentiometers. Each potentiometer controls a RGB value. The top is then placed on to and the pins are soldered in place.

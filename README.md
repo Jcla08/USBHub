@@ -4,5 +4,6 @@ A Cool USB Hub that features 2 Type-C and 4 Type-A ports! (Original, I know) The
 ## BOM 
 [View the full dataset](./BOM.csv)
 ## Photos
-Coming soon
+![Alt text](Assets/PCB_Render.png)
+More coming soon
 
